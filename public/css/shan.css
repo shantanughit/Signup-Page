@@ -1,5 +1,7 @@
 html,
 body {
+  background-image: url(jhari.jpg);
+  background-size: cover;
   height: 100%;
 }
 
@@ -23,3 +25,8 @@ body {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+
+.header{
+  color: #c99999;
+}
+
